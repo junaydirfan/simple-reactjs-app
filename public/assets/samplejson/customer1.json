@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "Lorem Ipsum",
+	"email": "jsmith@test.com",
+	"phone": "123456789",
+	"city": "dolor sit",
+	"state": "amet",
+	"country": "consectetur",
+	"organization": "Company 1",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "adipiscing elit, sed do eiusmod tempor incididunt ut"
+}
